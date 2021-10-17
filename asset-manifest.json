@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/josegassull/josegassull.github.io/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/josegassull/josegassull.github.io/static/js/main.7bc5679f.chunk.js",
+    "main.js.map": "/josegassull/josegassull.github.io/static/js/main.7bc5679f.chunk.js.map",
+    "runtime-main.js": "/josegassull/josegassull.github.io/static/js/runtime-main.bf64165c.js",
+    "runtime-main.js.map": "/josegassull/josegassull.github.io/static/js/runtime-main.bf64165c.js.map",
+    "static/js/2.8ab7954a.chunk.js": "/josegassull/josegassull.github.io/static/js/2.8ab7954a.chunk.js",
+    "static/js/2.8ab7954a.chunk.js.map": "/josegassull/josegassull.github.io/static/js/2.8ab7954a.chunk.js.map",
+    "static/js/3.6d34d4fe.chunk.js": "/josegassull/josegassull.github.io/static/js/3.6d34d4fe.chunk.js",
+    "static/js/3.6d34d4fe.chunk.js.map": "/josegassull/josegassull.github.io/static/js/3.6d34d4fe.chunk.js.map",
+    "index.html": "/josegassull/josegassull.github.io/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/josegassull/josegassull.github.io/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8ab7954a.chunk.js.LICENSE.txt": "/josegassull/josegassull.github.io/static/js/2.8ab7954a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf64165c.js",
+    "static/js/2.8ab7954a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7bc5679f.chunk.js"
+  ]
+}
